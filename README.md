@@ -12,16 +12,8 @@ config: wrap your LLM client or decorate your agent, and the run is traced.
 
 ## Install
 
-`keelwave` is not on PyPI yet. Once published:
-
 ```bash
 pip install keelwave
-```
-
-Until then, install from source:
-
-```bash
-pip install git+https://github.com/keelwave/keelwave-python
 ```
 
 Requires Python 3.10+.
